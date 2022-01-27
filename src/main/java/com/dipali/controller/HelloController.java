@@ -10,7 +10,7 @@ public class HelloController {
 	public String hello()
 	{
 		System.out.println("HELLO WORLD DIPALI!");
-		return "HELLO WORLD DIPALI PATIL!!";
+		return "HELLO WORLD DIPALI LALIT PATIL!!";
 	}
 }
 
